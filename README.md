@@ -2,5 +2,5 @@
 
 -------
 
-#### MSM for alanine dupeptide
+#### MSM for alanine dipeptide
 
